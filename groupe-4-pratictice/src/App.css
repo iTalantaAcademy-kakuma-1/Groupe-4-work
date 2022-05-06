@@ -1,10 +1,18 @@
 .App {
   text-align: center;
+
+}
+#titre{
+  margin-top: 2%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+iframe{
+  margin-top: 10%;
+  border-radius: 50%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
